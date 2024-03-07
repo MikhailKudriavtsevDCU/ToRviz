@@ -10,7 +10,7 @@
   "text": {
     "more": "",
     "intro": "",
-    "title": "1"
+    "title": "1234"
   },
   "legend": {
     "edgeLabel": "",
@@ -20,11 +20,11 @@
   "features": {
     "search": true,
     "groupSelectorAttribute": false,
-    "hoverBehavior": "dim"
+    "hoverBehavior": "default"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
-    "imageAttribute": false
+    "imageAttribute": "confidence"
   },
   "sigma": {
     "drawingProperties": {
